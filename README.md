@@ -6,7 +6,7 @@
 
 - I´m Full Stack Developer
 
-- I’m currently learning MongoDB && GraphQL
+- I’m currently learning TypeScript
 
 - How to reach me **santinoscolamieri@yahoo.com.ar**
 <br/>
